@@ -1,0 +1,5 @@
+Pandas
+NumPy
+Gensim
+NLTK
+spaCy
